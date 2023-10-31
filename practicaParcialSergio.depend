@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1698759792 source:c:\users\facku\onedrive\documentos\labo 2\practicaparcialsergio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stEspecialidadMedica.h"
+	"stPaciente.h"
+	"celda.h"
+
+1698759564 source:c:\users\facku\onedrive\documentos\labo 2\practicaparcialsergio\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1698712929 c:\users\facku\onedrive\documentos\labo 2\practicaparcialsergio\arbol.h
+	"stPaciente.h"
+
+1698759761 c:\users\facku\onedrive\documentos\labo 2\practicaparcialsergio\stpaciente.h
+	"stRegistroMedico.h"
+
+1698699468 c:\users\facku\onedrive\documentos\labo 2\practicaparcialsergio\stregistromedico.h
+
+1698712929 source:c:\users\facku\onedrive\documentos\labo 2\practicaparcialsergio\paciente.c
+	"stPaciente.h"
+
+1698761843 source:c:\users\facku\onedrive\documentos\labo 2\practicaparcialsergio\celda.c
+	<stdio.h>
+	<stdlib.h>
+	"celda.h"
+	<string.h>
+
+1698703437 c:\users\facku\onedrive\documentos\labo 2\practicaparcialsergio\celda.h
+	"stEspecialidadMedica.h"
+	"arbol.h"
+	"stRegistroMedico.h"
+
+1698759776 c:\users\facku\onedrive\documentos\labo 2\practicaparcialsergio\stespecialidadmedica.h
+	"stRegistroMedico.h"
+
+1698712929 source:c:\users\facku\onedrive\documentos\labo 2\practicaparcialsergio\stespecialidadmedica.c
+	"stEspecialidadMedica.h"
+
